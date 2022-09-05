@@ -1,5 +1,5 @@
 - 👋 Hey, @ktechmarketing is a marketing agency in Mardan that ensures to provide social media marketing and website services locally and globally.
-- 👀 Interested in Social Media Marketing 🤷‍♀️ WordPress Development & Flutter Development 👩‍💻
+- 👀 Interested in Flutter Development, WordPress Development & Social Media Marketing
 - 💲  Dm us to grow your brand 
 - 🌱 Currently learning Flutter Development 
 - 💞️ Looking to collaborate on new ideas in Flutter
