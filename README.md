@@ -4,7 +4,7 @@
 - 🌱 Currently learning Flutter Development 
 - 💞️ Looking to collaborate on new ideas in Flutter
 
-- 📫 How to reach me: 
+- 📫 How to reach us: 
 - Official Email: ktechmarketingofficial@gmail.com
 
 - Facebook: https://www.facebook.com/ktechmarketingofficial
